@@ -1,4 +1,3 @@
-# Profile
 Hi 👋 My name is Fretchel Gerarman
 ==================================
 
